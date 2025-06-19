@@ -1,0 +1,11 @@
+/Users/vvv/Documents/OS/lab3/build/CMakeFiles/test.dir
+/Users/vvv/Documents/OS/lab3/build/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/lab3/build/CMakeFiles/rebuild_cache.dir
+/Users/vvv/Documents/OS/lab3/build/src/CMakeFiles/marker_threads.dir
+/Users/vvv/Documents/OS/lab3/build/src/CMakeFiles/test.dir
+/Users/vvv/Documents/OS/lab3/build/src/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/lab3/build/src/CMakeFiles/rebuild_cache.dir
+/Users/vvv/Documents/OS/lab3/build/tests/CMakeFiles/marker_tests.dir
+/Users/vvv/Documents/OS/lab3/build/tests/CMakeFiles/test.dir
+/Users/vvv/Documents/OS/lab3/build/tests/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/lab3/build/tests/CMakeFiles/rebuild_cache.dir
