@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/vvv/Documents/OS/lab1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/creator.dir/creator.cpp.o -c /Users/vvv/Documents/OS/lab1/creator.cpp",
+  "file": "/Users/vvv/Documents/OS/lab1/creator.cpp",
+  "output": "CMakeFiles/creator.dir/creator.cpp.o"
+},
+{
+  "directory": "/Users/vvv/Documents/OS/lab1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/reporter.dir/reporter.cpp.o -c /Users/vvv/Documents/OS/lab1/reporter.cpp",
+  "file": "/Users/vvv/Documents/OS/lab1/reporter.cpp",
+  "output": "CMakeFiles/reporter.dir/reporter.cpp.o"
+},
+{
+  "directory": "/Users/vvv/Documents/OS/lab1/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/main.dir/main.cpp.o -c /Users/vvv/Documents/OS/lab1/main.cpp",
+  "file": "/Users/vvv/Documents/OS/lab1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/vvv/Documents/OS/lab1/build",
+  "command": "/usr/bin/clang++  -I/Users/vvv/Documents/OS/lab1 -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/runTests.dir/tests.cpp.o -c /Users/vvv/Documents/OS/lab1/tests.cpp",
+  "file": "/Users/vvv/Documents/OS/lab1/tests.cpp",
+  "output": "CMakeFiles/runTests.dir/tests.cpp.o"
+}
+]

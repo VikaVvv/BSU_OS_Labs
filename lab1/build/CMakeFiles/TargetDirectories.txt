@@ -1,0 +1,7 @@
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/creator.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/reporter.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/main.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/runTests.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/test.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/edit_cache.dir
+/Users/vvv/Documents/OS/lab1/build/CMakeFiles/rebuild_cache.dir
